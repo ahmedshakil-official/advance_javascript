@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58aee3f8-a598-4f3c-9b9b-5b9a3fd04e10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/truthy-falsy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array-splite-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map-filter-find.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map-object.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +35,28 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RunManager" selected="Node.js.array-splite-slice.js">
+    <configuration name="array-splite-slice.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/array-splite-slice.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="map-filter-find.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/map-filter-find.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="map-object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/map-object.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="truthy-falsy.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/truthy-falsy.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.array-splite-slice.js" />
+        <item itemvalue="Node.js.map-object.js" />
+        <item itemvalue="Node.js.map-filter-find.js" />
+        <item itemvalue="Node.js.truthy-falsy.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -56,11 +79,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583418380864</updated>
-      <workItem from="1583418382018" duration="1027000" />
+      <workItem from="1583418382018" duration="2539000" />
+      <workItem from="1583490874730" duration="3699000" />
+      <workItem from="1583599646360" duration="1469000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="936" height="263" key="GridCell.Tab.0.bottom" timestamp="1583599901863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583599901863" />
+    <state width="936" height="263" key="GridCell.Tab.0.center" timestamp="1583599901863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583599901863" />
+    <state width="936" height="263" key="GridCell.Tab.0.left" timestamp="1583599901863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583599901863" />
+    <state width="936" height="263" key="GridCell.Tab.0.right" timestamp="1583599901863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583599901863" />
   </component>
 </project>
